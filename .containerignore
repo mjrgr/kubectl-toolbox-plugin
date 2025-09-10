@@ -1,0 +1,6 @@
+Containerfile
+.idea
+*.iml
+*git*
+*.sh
+*.md
